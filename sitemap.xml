@@ -10,6 +10,55 @@
   </url>
   
   <url>
+    <loc>/chapitre-5/</loc>
+    <lastmod>2020-10-31T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/chapitre6/</loc>
+    <lastmod>2020-10-31T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/chapitre7/</loc>
+    <lastmod>2020-10-31T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/chapitre8/</loc>
+    <lastmod>2023-09-12T14:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/chapitre10/</loc>
+    <lastmod>2020-10-31T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/chapitre12/</loc>
+    <lastmod>2023-09-13T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/chapitre13/</loc>
+    <lastmod>2020-10-31T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,7 +67,14 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-13T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2023-09-13T10:01:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -26,13 +82,6 @@
   <url>
     <loc>/pages/</loc>
     <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-10-31T10:01:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
